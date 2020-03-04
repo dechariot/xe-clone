@@ -7,11 +7,15 @@ body {
 input {
     width: 100%;
     border-radius: 5px;
+    font-weight: 900;
+    text-align: center;
 }
 
 select {
     width: 100%;
     border-radius: 5px;
+    font-weight: 900;
+    text-align: center;
 }
 
 .row {
@@ -41,4 +45,9 @@ label {
 h1 {
     color: white;
     font-weight: 900;
+}
+
+button {
+    background: none;
+    border: none;
 }
