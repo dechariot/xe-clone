@@ -22,7 +22,6 @@ function getFromTo() {
   }
 
 
-
 const currencyRatio = {
     vnd: {
         usd: 0.000043,

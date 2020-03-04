@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+input {
+    width: 100%;
+    border-radius: 5px;
+}
+
+select {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.row {
+    color: white;
+    font-weight: 900;
+}
+
+.col {
+    height: 100px;
+}
+
+p {
+    padding: 0;
+    margin-bottom: 0;
+}
+
+label {
+    margin-bottom: 0;
+}
+
+#resultArea {
+    color: white;
+    font-style: italic;
+    margin-top: 2rem;
+}
+
+h1 {
+    color: white;
+    font-weight: 900;
+}
